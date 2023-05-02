@@ -1,0 +1,38 @@
+body {
+    background-color: #7B6D8D;
+    font-family :'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.cat {
+    background-color: #9AD5CA;
+    margin: 0.5em;
+    padding: 1em;
+    border-radius: 1em;
+    border: 3px solid #7B6D8D;
+    flex : 1;
+
+}
+
+
+
+@media (min-width : 960px) {
+.cats {
+display: flex;
+border: 1px 
+}
+}
+
+fieldset {
+    margin : 1em;
+    border : 0;
+}
+
+button {
+    padding : 1em;
+    border : 3px solid;
+    border-radius : 0.5emp
+}
+
+input {
+    padding : 1em
+}
